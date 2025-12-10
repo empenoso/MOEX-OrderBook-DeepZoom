@@ -215,8 +215,9 @@ Apache-2.0 license — см. файл [LICENSE](LICENSE)
 ## 👤 Автор
 
 **Михаил Шардин**
-- Website: [https://shardin.name/](https://shardin.name/)
-- GitHub: [@empenoso](https://github.com/empenoso)
+
+[🔗 Моя онлайн-визитка](https://shardin.name/?utm_source=github)  
+GitHub: [@empenoso](https://github.com/empenoso)
 
 ---
 
