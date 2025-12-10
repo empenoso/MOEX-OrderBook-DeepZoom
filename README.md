@@ -211,7 +211,7 @@ main.py ──────────┐
 
 ## 📝 Лицензия
 
-MIT License — см. файл [LICENSE](LICENSE)
+Apache-2.0 license — см. файл [LICENSE](LICENSE)
 
 ## 👤 Автор
 
