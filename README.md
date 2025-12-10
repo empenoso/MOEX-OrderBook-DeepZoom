@@ -3,7 +3,6 @@
 **Визуализация стаканов Московской Биржи с интерактивным масштабированием** / **Limit Order Book Visualisation**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production-brightgreen.svg)]()
 
 ![SBER Order Book](pic/SBER_20250609_20250615.png)
