@@ -208,6 +208,18 @@ main.py ──────────┐
 - Генерация одной недели данных может занимать 2-5 минут
 - Размер выходных данных Deep Zoom может достигать нескольких GB
 
+## 💡 Вдохновение
+
+Данный проект вдохновлен работами по визуализации финансовых рынков:
+
+- **Nanex NxCore Order Book Visualization** — pioneering work in high-frequency market data visualization  
+  🔗 [http://www.nanex.net/aqck2/3581.html](http://www.nanex.net/aqck2/3581.html)
+
+- **Parasec Order Book Visualisation** — detailed exploration of order book depth and liquidity rendering  
+  🔗 [https://parasec.net/blog/order-book-visualisation/](https://parasec.net/blog/order-book-visualisation/)
+
+Проект развивает эти идеи, адаптируя их для данных Московской Биржи с использованием технологии Deep Zoom.
+
 ## 📝 Лицензия
 
 Apache-2.0 license — см. файл [LICENSE](LICENSE)
